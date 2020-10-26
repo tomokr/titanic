@@ -51,6 +51,9 @@ For sex, women tend to survived more than men.
 Firstly, I am going to aim the model accuracy avobe 0.9.
 
 ## Hypothesize solution
+We use "Pclass", "Sex", "SibSp", "Parch","Embarked" and "Age" for establish a model.
+For Age, I use "AgeBucket", binned the age into 15 years.
+For model, I use RandomForestClassifier.
 
 ## Develop
 
