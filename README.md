@@ -62,8 +62,11 @@ Also I used another model based on SVM from other people made.
 |   | with embarked | without embarked | GSSVM |
 | --- | ----------- | --------- | ------ |
 | test accuracy | 0.821 | 0.827 | 0.815 |
-| leaderboard score | 0.782 |  | 0.775 |
+| leaderboard score | 0.782 | 0.770 | 0.775 |
 
 The best model is now Randomforest with embarked.
+
+## Feature importance
+
 
 
