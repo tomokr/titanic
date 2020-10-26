@@ -55,7 +55,7 @@ We use "Pclass", "Sex", "SibSp", "Parch","Embarked" and "Age" for establish a mo
 For Age, I use "AgeBucket", binned the age into 15 years.
 
 The relation between being survived and age bucket is like below.
-![Agebucket](https://user-images.githubusercontent.com/5339011/97226302-2b1afc00-17aa-11eb-8c46-73c7722b2aed.png)
+![Agebucket](https://user-images.githubusercontent.com/5339011/97226464-64536c00-17aa-11eb-9c91-8b4d827a49e3.png)
 
 For model, I use RandomForestClassifier.
 
