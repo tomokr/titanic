@@ -53,6 +53,10 @@ Firstly, I am going to aim the model accuracy avobe 0.9.
 ## Hypothesize solution
 We use "Pclass", "Sex", "SibSp", "Parch","Embarked" and "Age" for establish a model.
 For Age, I use "AgeBucket", binned the age into 15 years.
+
+The relation between being survived and age bucket is like below.
+![Agebucket](https://user-images.githubusercontent.com/5339011/97226302-2b1afc00-17aa-11eb-8c46-73c7722b2aed.png)
+
 For model, I use RandomForestClassifier.
 
 ## Develop
@@ -75,4 +79,4 @@ The most important feature is the sex. The second is Pclass. The third is Agebuc
 ## Conclusion
 
 If you want to survive the accident like Titanic,
-you should be a rich and young woman!!
+you should be a rich and old woman!!
