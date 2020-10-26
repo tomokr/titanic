@@ -56,5 +56,14 @@ For Age, I use "AgeBucket", binned the age into 15 years.
 For model, I use RandomForestClassifier.
 
 ## Develop
+The accuracy of the model results shown in the table below.
+Also I used another model based on SVM from other people made.
+
+|   | with embarked | without embarked | GSSVM |
+| --- | ----------- | --------- | ------ |
+| test accuracy | 0.821 | 0.827 | 0.815 |
+| leaderboard score | 0.782 |  | 0.775 |
+
+The best model is now Randomforest with embarked.
 
 
