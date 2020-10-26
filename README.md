@@ -39,7 +39,7 @@ The test set has a NaN value in Fare. For this, we use the mean value for fare.
 Here, the target value of survived poeple corresponds to 1 and that of not survived does 0.
 The mean of the target value close to 1 means likely to survive.
 
-![Pclass]
+![Pclass](https://user-images.githubusercontent.com/5339011/97223809-a7abdb80-17a6-11eb-99bc-1415471fb822.png)
 For Pclass, this means the passenger class, the passengers in pclass 1 were the most survived.
 The worst was pclass 3.
 
@@ -67,6 +67,12 @@ Also I used another model based on SVM from other people made.
 The best model is now Randomforest with embarked.
 
 ## Feature importance
+![Feature importance](https://user-images.githubusercontent.com/5339011/97223816-a9759f00-17a6-11eb-9a14-cdd64cf8277e.png)
+
+The most important feature is the sex. The second is Pclass. The third is Agebucket.
 
 
+## Conclusion
 
+If you want to survive the accident like Titanic,
+you should be a rich and young woman!!
