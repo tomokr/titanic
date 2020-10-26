@@ -28,13 +28,27 @@ Now let's see the data.
 There are 12 categories and 891 of people's data.
 *Age* and *Cabin* have some missing values. Embarked has a few.
 
+![correlation](https://user-images.githubusercontent.com/5339011/97213917-a8d60c00-1798-11eb-99b0-9070b8ec0864.png)
 When taking a correlation between these numeric data, *Pclass, Age, and Fare* look like strongly correlated with Survived(target).
 
 ## Data cleaning
+We use the mean value of age for lacked age data.
+The test set has a NaN value in Fare. For this, we use the mean value for fare.
 
 ## Exploring the data
+Here, the target value of survived poeple corresponds to 1 and that of not survived does 0.
+The mean of the target value close to 1 means likely to survive.
+
+![Pclass]
+For Pclass, this means the passenger class, the passengers in pclass 1 were the most survived.
+The worst was pclass 3.
+
+For Embarked, this means where passenger embarked the ship, Embarked C has the most survived. S was the worst.
+
+For sex, women tend to survived more than men.
 
 ## Establish a baseline
+Firstly, I am going to aim the model accuracy avobe 0.9.
 
 ## Hypothesize solution
 
