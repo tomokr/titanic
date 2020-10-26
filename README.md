@@ -29,3 +29,15 @@ There are 12 categories and 891 of people's data.
 *Age* and *Cabin* have some missing values. Embarked has a few.
 
 When taking a correlation between these numeric data, *Pclass, Age, and Fare* look like strongly correlated with Survived(target).
+
+## Data cleaning
+
+## Exploring the data
+
+## Establish a baseline
+
+## Hypothesize solution
+
+## Develop
+
+
