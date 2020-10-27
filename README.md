@@ -9,6 +9,8 @@ I got the data of the people on the ship and investigate how to survive in such 
 
 Now let's see the data.
 
+![head](https://user-images.githubusercontent.com/5339011/97246446-b5c42100-17d3-11eb-96a3-f808c25646e2.png)
+
 > RangeIndex: 891 entries, 0 to 890  
 > Data columns (total 12 columns):  
 > PassengerId    891 non-null int64  
@@ -38,6 +40,7 @@ The meaning of these data are listed below:
 |fare|	Passenger fare	||
 |cabin	Cabin number	||
 |embarked	|Port of Embarkation	|C = Cherbourg, Q = Queenstown, S = Southampton|
+
 from https://www.kaggle.com/c/titanic
 
 There are 12 categories and 891 of people's data.
