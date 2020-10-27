@@ -58,6 +58,7 @@ Here, the target value of survived poeple corresponds to 1 and that of not survi
 The mean of the target value close to 1 means likely to survive.
 
 ![Pclass](https://user-images.githubusercontent.com/5339011/97223809-a7abdb80-17a6-11eb-99bc-1415471fb822.png)
+
 For Pclass, this means the passenger class, the passengers in pclass 1 were the most survived.
 The worst was pclass 3.
 
