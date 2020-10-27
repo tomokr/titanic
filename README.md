@@ -100,5 +100,7 @@ If you want to survive the accident like Titanic,
 you should be a rich and old woman!!
 
 Also, I will do
-- putting together pclass nad fare
+- putting together pclass and fare
 - imputing age by the title from name
+- Adding the # of sibsp and parch as the feature
+to improve the score in the future.
