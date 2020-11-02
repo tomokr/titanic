@@ -89,6 +89,9 @@ Also I used another model based on SVM from other people made.
 
 The best model is now Randomforest with embarked.
 
+Also, I tried to improve the score with embarked using GridSearch and RandomForest.
+The best score was 0.840. However it didin't improve the leadeboard score.
+
 ## Feature importance
 ![Feature importance](https://user-images.githubusercontent.com/5339011/97223816-a9759f00-17a6-11eb-9a14-cdd64cf8277e.png)
 
